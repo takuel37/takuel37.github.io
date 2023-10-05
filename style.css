@@ -1,9 +1,9 @@
 @media only screen and (max-width: 1900px) {
 
 
-    * {
+    /* * {
         border: 1px solid red;
-    }
+    } */
 
     body {
         margin: 0;
@@ -130,7 +130,7 @@
     }
     
     .coin {
-        width: 200%;
+        width: 150%;
         margin-top: -60px;
         height: auto;
     }
@@ -177,12 +177,12 @@
     
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 730px) {
 
 
-    * {
+    /* * {
         border: 1px solid rgb(29, 202, 86);
-    }
+    } */
 
     .navbar {
         background-color: black;
@@ -327,11 +327,11 @@
 
 }
 
-@media only screen and (max-width: 450px) {
-
+@media only screen and (max-width: 500px) {
+/* 
     * {
         border: 1px solid rgb(247, 60, 228);
-    }
+    } */
 
     body {
         overflow-y: hidden;
