@@ -1,4 +1,10 @@
 @media only screen and (max-width: 1900px) {
+
+
+    * {
+        border: 1px solid red;
+    }
+
     body {
         margin: 0;
         padding: 0;
@@ -172,6 +178,12 @@
 }
 
 @media only screen and (max-width: 720px) {
+
+
+    * {
+        border: 1px solid rgb(29, 202, 86);
+    }
+
     .navbar {
         background-color: black;
         width: 100%;
@@ -316,6 +328,11 @@
 }
 
 @media only screen and (max-width: 450px) {
+
+    * {
+        border: 1px solid rgb(247, 60, 228);
+    }
+
     body {
         overflow-y: hidden;
     }
